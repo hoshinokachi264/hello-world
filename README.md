@@ -1,3 +1,3 @@
 # hello-world
-A repository
-I'm so fancy. You already know.
+Coffee
+How we get through each day
